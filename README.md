@@ -1,3 +1,3 @@
 # Portfolio-frontend
-Comprehnsive Java application showcasing mastery of Object-Oriented 
-Programming, including inhertance, polymorphism, and database integration.
+Comprehensive Java application showcasing mastery of Object-Oriented 
+Programming, including inheritance, polymorphism, and database integration.
