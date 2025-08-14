@@ -1,3 +1,3 @@
-# java-OOP-exam-project
+# java-oop-exam-project
 Comprehensive Java application showcasing mastery of Object-Oriented 
 Programming, including inheritance, polymorphism, and database integration.
